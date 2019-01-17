@@ -17,6 +17,8 @@ Welcome
 ## LINKS
 [Google Link](https://www.google.com/)
 
+## IMAGE
+
 ![Image](https://media.gettyimages.com/photos/canine-unit-picture-id155099701 "test")
 
 
