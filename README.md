@@ -9,7 +9,6 @@ Look where this appears
 1. Ordered List 2
 
 [Google](https://www.google.com/)
-
-![Image](https://www.gettyimages.com/detail/photo/canine-unit-royalty-free-image/155099701)
+![Image](https://www.gettyimages.com/detail/photo/canine-unit-royalty-free-image/155099701.PNG "Police Dog"))
 
 
